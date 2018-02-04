@@ -1,0 +1,21 @@
+{
+  "name": "@mapbox/eslint-config-geocoding",
+  "version": "1.0.0",
+  "description": "Shared eslint config for geocoding team",
+  "main": "eslintrc.json",
+  "scripts": {
+    "test": "tape test/*.js && eslint test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-plugin-node": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-plugin-node": "^5.2.1",
+    "tape": "^4.8.0"
+  }
+}
