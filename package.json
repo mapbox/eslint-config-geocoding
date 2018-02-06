@@ -1,6 +1,6 @@
 {
   "name": "@mapbox/eslint-config-geocoding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared eslint config for geocoding team",
   "main": "eslintrc.json",
   "scripts": {
