@@ -21,7 +21,7 @@
     "no-confusing-arrow": ["error", { "allowParens": false }],
     "no-extend-native": "error",
     "no-mixed-spaces-and-tabs": "error",
-    "no-spaced-func": "error",
+    "func-call-spacing": ["error", "never"],
     "no-trailing-spaces": "error",
     "no-unused-vars": "error",
     "no-use-before-define": ["error", "nofunc"],
