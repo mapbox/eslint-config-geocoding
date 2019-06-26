@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "eslint": "^5.8.0",
+    "eslint": "^6.0.1",
     "eslint-plugin-node": "^9.0.1"
   },
   "devDependencies": {
-    "eslint": "^5.8.0",
+    "eslint": "^6.0.1",
     "eslint-plugin-node": "^9.0.1",
     "tape": "^4.8.0"
   }
